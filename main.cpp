@@ -14,6 +14,10 @@ int main()
         std::cin >> command_to_run;
 
         if (command_to_run == "version") {
+            std::cout << "NShell\n" << "Build " << buildNr << '\n';
+        }
+        
+        else if (command_to_run == "c.version") {
             std::cout << "NShell Build " << buildNr << '\n';
         }
 
