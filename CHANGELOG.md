@@ -1,5 +1,9 @@
 # NShell Changelog
 
+## Build 4
+
+- You no longer have to press Enter to exit the application.
+
 ## Build 3
 
 - Okay, now version and exit do something.

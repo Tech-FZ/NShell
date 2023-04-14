@@ -1,7 +1,6 @@
 #include <iostream>
-#include <limits>
 
-int buildNr = 3;
+int buildNr = 4;
 
 int main()
 {
@@ -19,7 +18,6 @@ int main()
         }
 
         else if (command_to_run == "exit") {
-            std::cout << "Goodbye. Please press Enter to exit the application." << '\n';
             break;
         }
 
@@ -27,10 +25,6 @@ int main()
             std::cout << "Unknown command!\n";
         }
     }
-
-    std::cin.clear();
-    std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
-    std::cin.get();
 
     return 0;
 }

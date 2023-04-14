@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681378820 source:d:\nicos code\shell\nshell\nshell\main.cpp
+	<iostream>
+	<limits>
+
