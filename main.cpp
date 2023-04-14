@@ -16,7 +16,8 @@ int main()
         if (command_to_run == "version") {
             std::cout << "NShell\n" << "Build " << buildNr << '\n';
         }
-        if (command_to_run == "version -c") {
+        
+        else if (command_to_run == "c.version") {
             std::cout << "NShell Build " << buildNr << '\n';
         }
 
