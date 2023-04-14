@@ -1,5 +1,7 @@
 # depslib dependency file v1.0
-1681378820 source:d:\nicos code\shell\nshell\nshell\main.cpp
+1681493466 source:d:\nicos code\shell\nshell\nshell\main.cpp
+	"help.h"
 	<iostream>
-	<limits>
+
+1681493184 d:\nicos code\shell\nshell\nshell\help.h
 
