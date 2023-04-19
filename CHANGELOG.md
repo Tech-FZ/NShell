@@ -1,5 +1,9 @@
 # NShell Changelog
 
+## Build 6
+
+- ErikTheRDev added contrib to list the contributors in NShell.
+
 ## Build 5
 
 - ErikTheRDev added c.version and updated version.
