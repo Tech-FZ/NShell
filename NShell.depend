@@ -5,3 +5,7 @@
 
 1681493184 d:\nicos code\shell\nshell\nshell\help.h
 
+1681999616 source:d:\nicos code\shell\nshell\nshell\help.cpp
+	"help.h"
+	<iostream>
+
