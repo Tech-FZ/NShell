@@ -1,5 +1,10 @@
 # NShell Changelog
 
+## Build 7
+
+- Introducing "calc", a simple calculator integrated into NShell.
+- Also, you can see the license with the "license" command.
+
 ## Build 6
 
 - ErikTheRDev added contrib to list the contributors in NShell.

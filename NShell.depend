@@ -1,11 +1,18 @@
 # depslib dependency file v1.0
-1681493466 source:d:\nicos code\shell\nshell\nshell\main.cpp
+1682249258 source:d:\nicos code\shell\nshell\nshell\main.cpp
 	"help.h"
+	"calc.h"
 	<iostream>
 
 1681493184 d:\nicos code\shell\nshell\nshell\help.h
 
-1681999616 source:d:\nicos code\shell\nshell\nshell\help.cpp
+1682249424 source:d:\nicos code\shell\nshell\nshell\help.cpp
 	"help.h"
+	<iostream>
+
+1682247462 d:\nicos code\shell\nshell\nshell\calc.h
+
+1682249520 source:d:\nicos code\shell\nshell\nshell\calc.cpp
+	"calc.h"
 	<iostream>
 
